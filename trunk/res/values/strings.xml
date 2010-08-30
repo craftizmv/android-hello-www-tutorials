@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string
+        name="hello">Click on a button to launch the Browser</string>
+    <string
+        name="app_name">Hello, World Wide Web!</string>
+    <string
+        name="button1">Click to launch Browser to Web URL</string>
+    <string
+        name="button2">Search Google for \&quot;Pygmy Goats\&quot;</string>
+    <string
+        name="contains_links">Another easy way to launch in to the browser is by having
+        text with links. Our blog is at http://androidbook.blogspot.com
+        and you learned about this at http://mobile.tutsplus.com.
+    </string>
+</resources>
